@@ -1,4 +1,4 @@
-# Inverted Pendulum on a Cart with Linear Controller
+# Inverted Pendulum on a Cart with Linear Quadratic Regulator
 
 Contains linearization based controller for command following with an observer based state feedback. Run **simplePendulumOnACart_v0.m** to load the variable into the workspace and run **simplePendulumOnACart0.slx**.
 
