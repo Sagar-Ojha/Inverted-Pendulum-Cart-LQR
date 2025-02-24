@@ -23,15 +23,6 @@ Here are some results with different gain values. Feel free to tune the paramete
   <img src="pendulumCart2.jpg" width="49%" height = "50%" />
 </p>
 
-
-Simulink results.
-
-1) <em>States estimated by the observer</em>
-<p float="center"> 
-  <img src="estimatedStates.svg"/>
-</p>
-
-2) <em>States</em>
-<p float="left">
-  <img src="states.svg"/>
-</p>
+Click here for the animations.
+- [Demo 1](https://youtu.be/wF3t1BsLJ9M)
+- [Demo 2](https://youtu.be/dSFHy8AWpdc)
